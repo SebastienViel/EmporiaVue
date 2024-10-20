@@ -5,7 +5,7 @@ metadata {
         name: "Emporia Vue Driver 2.0",
         namespace: "ke7lvb",
         author: "Ryan Lundell",
-        importUrl: "https://raw.githubusercontent.com/ke7lvb/Emporia-Vue-Hubitat/main/emporia.groovy",
+        importUrl: "https://raw.githubusercontent.com/SebastienViel/EmporiaVue/refs/heads/main/Emporia%20Vue%20Driver%202.0",
     ){
         capability "Refresh"
         capability "PowerSource"
